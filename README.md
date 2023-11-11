@@ -41,7 +41,6 @@ Happy coding! 🚀
 
 ---
 
-Feel free to personalize and adjust the content as needed!
 </p>
 
 <p>
