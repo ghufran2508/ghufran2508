@@ -1,7 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-  ![Programming-bro](https://github.com/ghufran2508/ghufran2508/assets/57570139/59cfcc72-09da-4233-8fbb-064c2cbeea92)
-
+  <img src="https://github.com/ghufran2508/ghufran2508/assets/57570139/3525735b-f014-4212-8ccc-230412e169ce" height="250">
 </div>
 
 ###
@@ -24,6 +22,7 @@
 ###
 
 <p>
+  
 ---
 
 👋 Hello there! I'm [Your Name], a passionate full-stack developer with a keen interest in pushing the boundaries of technology. You can find me in the realm of code, crafting solutions that bridge the gap between ideas and execution.
@@ -44,6 +43,12 @@ Happy coding! 🚀
 
 Feel free to personalize and adjust the content as needed!
 </p>
+
+<p>
+  
+  <img height="100" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  
+  </p>
 
 ###
 
@@ -93,13 +98,14 @@ Feel free to personalize and adjust the content as needed!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+---
+
 ###
 
 <div align="center">
-<!--   <img height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
-  ![Visionary technology-amico](https://github.com/ghufran2508/ghufran2508/assets/57570139/7de676b7-faa1-43a7-98ad-e853d8b98615)
+  <img height="300" src="https://github.com/ghufran2508/ghufran2508/assets/57570139/7de676b7-faa1-43a7-98ad-e853d8b98615"  />
 </div>
 
 ###
 
-
+---
