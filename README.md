@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ghufran2508/ghufran2508/assets/57570139/3525735b-f014-4212-8ccc-230412e169ce" height="250">
+  <img src="https://github.com/ghufran2508/ghufran2508/assets/57570139/f60f1ee4-cbb4-43b0-b11e-2c2757055004" height="250">
 </div>
 
 ###
@@ -103,7 +103,7 @@ Feel free to personalize and adjust the content as needed!
 ###
 
 <div align="center">
-  <img height="300" src="https://github.com/ghufran2508/ghufran2508/assets/57570139/7de676b7-faa1-43a7-98ad-e853d8b98615"  />
+  <img height="300" src="https://github.com/ghufran2508/ghufran2508/assets/57570139/86f5606e-d8ba-4007-8cac-c056faf5d629"  />
 </div>
 
 ###
