@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-ghufran-ali-b151b8229/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:ghoofy.321@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
   <a href="https://wa.me/923038971005?text=Hi%2C%20i%20want%20you%20wo%20join%20m%20team." target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  /></a>
 </div>
 
