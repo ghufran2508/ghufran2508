@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About [Me](https://ghufran2508.github.io/) </h3>
+<h3 align="left">👩‍💻  About <a href="https://ghufran2508.github.io/">Me</a> </h3>
 
 ###
 
