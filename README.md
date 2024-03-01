@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About [Me](https://ghufran2508.github.io/) </h3>
 
 ###
 
@@ -25,7 +25,7 @@
   
 ---
 
-👋 Hello there! I'm [Your Name], a passionate full-stack developer with a keen interest in pushing the boundaries of technology. You can find me in the realm of code, crafting solutions that bridge the gap between ideas and execution.
+👋 Hello there! I'm Muhammad Ghufran Ali, a passionate full-stack developer with a keen interest in pushing the boundaries of technology. You can find me in the realm of code, crafting solutions that bridge the gap between ideas and execution.
 
 🚀 As a full-stack developer, I thrive on the challenges of both front-end and back-end development. My journey in the tech world has been an exciting adventure, and I am constantly seeking new opportunities to learn and grow. You can check out my coding escapades on my GitHub profile: [GitHub.com/ghufran2508](https://github.com/ghufran2508).
 
