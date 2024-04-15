@@ -41,6 +41,8 @@ Happy coding! 🚀
 
 ---
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 </p>
 
 ###
