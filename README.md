@@ -13,7 +13,7 @@
 ###
 
 <h1 align="center">Hi! It's Muhammad Ghufran Ali 👋</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Engineer from Pakistan</h3>
 
 ###
 
@@ -80,6 +80,10 @@ Happy coding! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40  alt="nginx"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium" />
 </div>
 
 # 📊 GitHub Stats:
