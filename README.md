@@ -24,7 +24,7 @@
 <p>
   
 ---
-🌱 I’m a Full Stack Web Developer in DevOps and MERN Stack. Currently Learning Automation using Selenium.<br>👀 I’m interested in Gaming, Cricket, Anime and Movies<br>📫 You can contact me on ghoofy.321@gmail.com
+🌱 I’m a Full Stack Web Developer in DevOps and MERN Stack. Currently working on creating AI agents.<br>👀 I’m interested in Gaming, Cricket, Anime and Movies<br>📫 You can contact me on ghoofy.321@gmail.com
 <br>
 Happy coding! 🚀
 
